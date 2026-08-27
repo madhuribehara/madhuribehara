@@ -16,6 +16,7 @@ Senior Backend Engineer with 9+ years of experience building scalable backend ap
 ## 💼 Core Technologies
 - C#, .NET 8/9, ASP.NET Core
 - Node.js, TypeScript
+- React, Blazor
 - REST APIs & Microservices
 - Entity Framework Core
 - SQL Server, PostgreSQL, MongoDB
@@ -26,6 +27,7 @@ Senior Backend Engineer with 9+ years of experience building scalable backend ap
 ## 💬 Ask Me About
 - Backend Architecture
 - .NET Development
+- Front-End Development
 - Microservices
 - AWS
 - REST API Design
