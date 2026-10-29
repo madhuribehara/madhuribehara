@@ -1,46 +1,24 @@
-# Hi there 👋 I'm Madhuri Behara
+# 💫 About Me:
+Hi there 👋 I'm Madhuri Behara<br><br>Senior Backend Engineer with 9 years of experience building backend services using C#/.NET, Node.js, TypeScript and across AWS and Azure environments. Delivered API integrations, webhook workflows and event-driven services for platforms supporting 500K+ users and 1.2M+ monthly API requests. Experienced in API specifications, retry and dead-letter queue handling, production monitoring and end-to-end service ownership. Focused on improving reliability, simplifying customer journeys and reducing operational effort. Combines hands-on engineering with technical design decisions, root-cause analysis and customer-focused delivery. Experienced in AI-assisted development using Claude and GitHub Copilot.
+<br><br>## 🌱 Currently Learning<br>- Anthropic AI courses<br>- Google Cloud APIs<br>- Advanced System Design<br>- Kubernetes and Cloud-Native Architecture<br>
+<br>## 💼 Core Technologies<br>- C#, .NET 8/9, ASP.NET Core<br>- Node.js, TypeScript<br>- React, Blazor<br>- REST APIs & Microservices<br>- Entity Framework Core<br>- SQL Server, PostgreSQL, MongoDB<br>- AWS (Lambda, ECS, API Gateway, SQS, SNS, S3)<br>- Docker<br>- Azure DevOps & GitHub Actions<br><br>## 💬 Ask Me About<br>- Backend Architecture<br>- .NET Development<br>- Front-End Development<br>- Microservices<br>- AWS<br>- REST API Design<br>- Performance Optimisation<br>- System Design<br><br>## 🎓 Education<br>MSc AI & Strategy<br>Brunel University London<br>
 
-Senior Backend Engineer with 9+ years of experience building scalable backend applications using C#, .NET, ASP.NET Core, Node.js, and AWS. Passionate about designing clean, reliable, and cloud-native systems.
 
-## 🚀 What I'm Working On
-- End-to-end full-stack Blazor application with ASP.NET Core backend
-- Building reusable backend components and REST APIs
-- Enhancing CI/CD workflows using Azure DevOps and GitHub Actions
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/madhuroy_diaries) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/madhuribehara/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/madhuriuk99) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@madhuroyminivlogs) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:madhuriuk99@gmail.com) 
 
-## 🌱 Currently Learning
-- Anthropic AI courses
-- Google Cloud APIs
-- Advanced System Design
-- Kubernetes and Cloud-Native Architecture
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=flat&logo=datadog&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat&logo=angularjs&logoColor=white) ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=flat&logo=blazor&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat&logo=yarn&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![TeamCity](https://img.shields.io/badge/teamcity-000000.svg?style=flat&logo=teamcity&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=flat&logo=bitbucket&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat&logo=elasticsearch) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=flat&logo=openapiinitiative&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=flat&logo=apple&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=flat&logo=rabbitmq&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=flat&logo=apache-tomcat&logoColor=black) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=madhuribehara&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=madhuribehara&theme=gruvbox&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=madhuribehara&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 💼 Core Technologies
-- C#, .NET 8/9, ASP.NET Core
-- Node.js, TypeScript
-- React, Blazor
-- REST APIs & Microservices
-- Entity Framework Core
-- SQL Server, PostgreSQL, MongoDB
-- AWS (Lambda, ECS, API Gateway, SQS, SNS, S3)
-- Docker
-- Azure DevOps & GitHub Actions
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=madhuribehara&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## 💬 Ask Me About
-- Backend Architecture
-- .NET Development
-- Front-End Development
-- Microservices
-- AWS
-- REST API Design
-- Performance Optimisation
-- System Design
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/madhuribehara) 
 
-## 🎓 Education
-MSc AI & Strategy
-Brunel University London
-
-## 📫 Connect With Me
-- LinkedIn: https://linkedin.com/in/madhuribehara
-- Email: madhuriuk99@gmail.com
-
----
-⭐ Thanks for visiting my profile!
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
